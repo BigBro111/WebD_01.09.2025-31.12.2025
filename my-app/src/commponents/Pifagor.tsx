@@ -1,0 +1,5 @@
+const Pifagor = () => {
+    return <li> a<sup>2</sup> + b<sup>2</sup> =  c <sup>2</sup></li>
+
+}
+export default Pifagor
